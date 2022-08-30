@@ -1,4 +1,3 @@
-#include "Intellisense.h"
 #include "gba.h"
 
 // list defines for the screen register at 0x4000000
